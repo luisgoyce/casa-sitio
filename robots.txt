@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luisgoyce.github.io/casa-sitio/sitemap.xml
